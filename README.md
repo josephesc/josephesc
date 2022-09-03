@@ -9,7 +9,7 @@
 
 <h3>I am also...</h3>
 <ul>
-  <li dir="auto">💡 Begginning Designer</li>
+  <li dir="auto">💡 I'm begginning designer</li>
   <li dir="auto">✍🏽 I'm writing my own book</li>
   <li dir="auto">🎨 I'm usually a concept artist</li>
 </ul>
@@ -28,9 +28,9 @@
 
 <h3>Contact me!</h3>
 <p dir="auto">
-<p><code>&lt;🌎 Websitegt;</code>: (working on it...)</p>
-<p><code>&lt;✉️ Emailgt;</code>: joseph1400ss@gmail.com</p>
-<p><code>&lt;📷 Instagramgt;</code>: https://www.instagram.com/josephesc/<p>
+<p><code><🌎 Website></code>: (working on it...)</p>
+<p><code><✉️ Email></code>: joseph1400ss@gmail.com</p>
+<p><code><📷 Instagram></code>: https://www.instagram.com/josephesc/<p>
 </p>
 
 
