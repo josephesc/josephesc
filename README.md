@@ -16,7 +16,7 @@
 <h2></h2>
 
 <div dir="auto"> 
-  <h3> I've worked with this technologies</h3>
+  <h3> I've worked with these technologies</h3>
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" height="50">
   <img align="left" src="https://styles.redditmedia.com/t5_2su6s/styles/communityIcon_4g1uo0kd87c61.png" width="50" height="50">
   <img align="left" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="50" height="50">
